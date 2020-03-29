@@ -1,0 +1,6 @@
+<plane model>   <minimun flight distance>   <maximum flight distance>   <airspeed>  <capacity>
+Airbus A380	3000	8000	561	853
+Boeing 737	500	2255	494	126
+Boeing 747	2000	7000	563	400
+BBD. Q400	150	1114	414	50
+Cessna 172	0	801	140	4
